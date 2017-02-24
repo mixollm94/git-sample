@@ -3,7 +3,3 @@ Hello Git 123
 It`s new line
 ssssssssssss
 123456789
-
-
-
-NEW Changes
